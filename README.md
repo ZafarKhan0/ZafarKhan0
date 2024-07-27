@@ -11,6 +11,31 @@ My journey in cybersecurity is fueled by a commitment to staying ahead of evolvi
 - **Technologies**: Machine Learning, Blockchain, Cloud Security, Penetration Testing
 - **Tools**: Wireshark, Metasploit, AWS, Docker
 
+### Advanced Cybersecurity Skills
+- **Threat Detection & Response**: Proficient in identifying and mitigating security threats using advanced tools and techniques.
+- **Penetration Testing**: Experienced with tools such as Metasploit, Burp Suite, and Nmap for vulnerability assessment and exploitation.
+- **Incident Handling & Forensics**: Skilled in handling security incidents, conducting digital forensics, and analyzing attack vectors.
+- **Network Security**: Expertise in securing network infrastructures, including firewall configuration, intrusion detection systems (IDS), and intrusion prevention systems (IPS).
+- **Cryptography**: Knowledgeable in encryption algorithms, key management, and cryptographic protocols.
+- **Security Operations**: Familiar with security operations centers (SOCs), log analysis, and threat intelligence platforms.
+
+### Cloud Computing
+- **Cloud Platforms**: Proficient in AWS (EC2, S3, RDS, Lambda), Azure, and Google Cloud Platform (GCP).
+- **Infrastructure as Code (IaC)**: Experienced with tools like Terraform and AWS CloudFormation for managing cloud resources.
+- **Containerization & Orchestration**: Skilled in Docker and Kubernetes for deploying and managing containerized applications.
+- **Cloud Security**: Knowledgeable in securing cloud environments, including IAM, VPC configurations, and security best practices.
+
+### Artificial Intelligence (AI) & Machine Learning (ML)
+- **Machine Learning Algorithms**: Proficient in supervised, unsupervised, and reinforcement learning techniques.
+- **Deep Learning**: Experienced with neural networks, CNNs, RNNs, and LSTMs for complex problem-solving.
+- **Natural Language Processing (NLP)**: Skilled in text analysis, sentiment analysis, and language models.
+- **Model Deployment**: Knowledgeable in deploying ML models using frameworks like TensorFlow, PyTorch, and Scikit-Learn.
+
+### Blockchain
+- **Smart Contracts**: Experienced in developing and deploying smart contracts on platforms like Ethereum using Solidity.
+- **Blockchain Architecture**: Knowledgeable in blockchain concepts, including consensus algorithms, decentralized applications (DApps), and tokenization.
+- **Cryptographic Protocols**: Familiar with cryptographic techniques used in blockchain, such as hashing and digital signatures.
+
 ## Key Projects
  **[Advanced Phishing Detection Tool](https://github.com/yourusername/advanced-phishing-detection)**: Developed a tool using NLP and ML to detect phishing emails and websites.
  **[Blockchain-Based Secure File Sharing](https://github.com/yourusername/blockchain-secure-file-sharing)**: Implemented a secure file-sharing system using blockchain technology.
