@@ -58,6 +58,13 @@ My journey in cybersecurity is fueled by a commitment to staying ahead of evolvi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="100" height="100"/>
 </p>
 
+## Libraries
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/NumPy/NumPy-original.svg" alt="NumPy" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Pandas/Pandas-original.svg" alt="Pandas" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Acikit-learn/Scikit-learn-original.svg" alt="Scikit-learn" width="100" height="100"/>
+</p>
 
 
 
