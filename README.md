@@ -40,6 +40,36 @@ My journey in cybersecurity is fueled by a commitment to staying ahead of evolvi
  **[Advanced Phishing Detection Tool](https://github.com/yourusername/advanced-phishing-detection)**: Developed a tool using NLP and ML to detect phishing emails and websites.
  **[Blockchain-Based Secure File Sharing](https://github.com/yourusername/blockchain-secure-file-sharing)**: Implemented a secure file-sharing system using blockchain technology.
 
+## Languages
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
+
+## Frameworks
+![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg)
+
+## Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</p>
+
+## Frameworks
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+</p>
+
+
+
+
+
  ## Contact Me
 **Email**: [K213567@NU.EDU.PK](mailto:K213567@NU.EDU.PK)
 
