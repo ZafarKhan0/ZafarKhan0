@@ -40,15 +40,7 @@ My journey in cybersecurity is fueled by a commitment to staying ahead of evolvi
  **[Advanced Phishing Detection Tool](https://github.com/yourusername/advanced-phishing-detection)**: Developed a tool using NLP and ML to detect phishing emails and websites.
  **[Blockchain-Based Secure File Sharing](https://github.com/yourusername/blockchain-secure-file-sharing)**: Implemented a secure file-sharing system using blockchain technology.
 
-## Languages
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
 
-## Frameworks
-![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg)
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg)
 
 ## Languages
 
