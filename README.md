@@ -66,6 +66,21 @@ My journey in cybersecurity is fueled by a commitment to staying ahead of evolvi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="80" height="80"/>
 </p>
 
+## Tools
+
+<p align="left">
+  <img src="https://www.wireshark.org/assets/images/wireshark-logo.svg" alt="Wireshark" width="80" height="80"/>
+  <img src="https://nmap.org/images/nmap-logo.png" alt="Nmap" width="80" height="80"/>
+  <img src="https://www.metasploit.com/images/logo.svg" alt="Metasploit" width="80" height="80"/>
+  <img src="https://portswigger.net/public/images/burp-suite-logo.svg" alt="Burp Suite" width="80" height="80"/>
+  <img src="https://ghidra-sre.org/img/ghidra-logo.png" alt="Ghidra" width="80" height="80"/>
+  <img src="https://hashcat.net/media/images/hashcat.png" alt="Hashcat" width="80" height="80"/>
+  <img src="https://aircrack-ng.org/assets/images/logo.svg" alt="Aircrack-ng" width="80" height="80"/>
+  <img src="https://www.openwall.com/john/img/john-logo.png" alt="John the Ripper" width="80" height="80"/>
+  <img src="https://www.sleuthkit.org/autopsy/images/autopsy-logo.png" alt="Autopsy" width="80" height="80"/>
+  <img src="https://www.openvas.org/assets/images/openvas-logo.svg" alt="OpenVAS" width="80" height="80"/>
+</p>
+
 
 
 
