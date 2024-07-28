@@ -69,17 +69,18 @@ My journey in cybersecurity is fueled by a commitment to staying ahead of evolvi
 ## Tools
 
 <p align="left">
-  <img src="https://www.wireshark.org/assets/images/wireshark-logo.svg" alt="Wireshark" width="80" height="80"/>
-  <img src="https://nmap.org/images/nmap-logo.png" alt="Nmap" width="80" height="80"/>
-  <img src="https://www.metasploit.com/images/logo.svg" alt="Metasploit" width="80" height="80"/>
-  <img src="https://portswigger.net/public/images/burp-suite-logo.svg" alt="Burp Suite" width="80" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wireshark_icon.svg/512px-Wireshark_icon.svg.png" alt="Wireshark" width="80" height="80"/>
+  <img src="https://nmap.org/images/nmap_logo_light.svg" alt="Nmap" width="80" height="80"/>
+  <img src="https://camo.githubusercontent.com/efc768ca5b5b4dc201ae0d50e4f5a24ed287b06602f00aa1e3e6f3010d914b28/68747470733a2f2f7777772e6d65746173706c6f69742e636f6d2f6173736574732f696d672f6d65746173706c6f69742d6c6f676f2d6c617267652e706e67" alt="Metasploit" width="80" height="80"/>
+  <img src="https://portswigger.net/public/images/09cl-52cl-91cc-burp-3x-no-bg.png" alt="Burp Suite" width="80" height="80"/>
   <img src="https://ghidra-sre.org/img/ghidra-logo.png" alt="Ghidra" width="80" height="80"/>
   <img src="https://hashcat.net/media/images/hashcat.png" alt="Hashcat" width="80" height="80"/>
   <img src="https://aircrack-ng.org/assets/images/logo.svg" alt="Aircrack-ng" width="80" height="80"/>
   <img src="https://www.openwall.com/john/img/john-logo.png" alt="John the Ripper" width="80" height="80"/>
   <img src="https://www.sleuthkit.org/autopsy/images/autopsy-logo.png" alt="Autopsy" width="80" height="80"/>
-  <img src="https://www.openvas.org/assets/images/openvas-logo.svg" alt="OpenVAS" width="80" height="80"/>
+  <img src="https://www.openvas.org/images/logo.svg" alt="OpenVAS" width="80" height="80"/>
 </p>
+
 
 
 
