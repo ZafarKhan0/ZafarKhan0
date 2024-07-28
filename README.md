@@ -61,10 +61,11 @@ My journey in cybersecurity is fueled by a commitment to staying ahead of evolvi
 ## Libraries
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/NumPy/NumPy-original.svg" alt="NumPy" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Pandas/Pandas-original.svg" alt="Pandas" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Acikit-learn/Scikit-learn-original.svg" alt="Scikit-learn" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="80" height="80"/>
 </p>
+
 
 
 
